@@ -1,0 +1,6 @@
+{
+  "name": "SajiPay — Modul Pembayaran Franchise & Kuliner",
+  "description": "Sistem manajemen pembayaran operasional usaha kuliner dan franchise: pembayaran POS, supplier, royalti mitra, tagihan, verifikasi manual, refund, rekonsiliasi, dan laporan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
